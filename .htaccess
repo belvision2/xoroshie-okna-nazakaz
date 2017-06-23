@@ -1,0 +1,3 @@
+DefaultLanguage ru
+AddDefaultCharset utf-8
+AddHandler server-parsed .html
